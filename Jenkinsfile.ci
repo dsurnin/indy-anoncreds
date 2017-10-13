@@ -18,7 +18,7 @@
 
 name = 'indy-anoncreds'
 
-echo "PR 102 test8"
+echo "PR 102 test9"
 
 def config = [
     codeValidation: false,
