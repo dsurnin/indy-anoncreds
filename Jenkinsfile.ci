@@ -18,6 +18,7 @@
 
 name = 'indy-anoncreds'
 
+echo "test"
 
 def config = [
     codeValidation: false,
